@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on NextJS and some authentication libraries like Next Auth and Kinde Auth<br>👯 I’m looking to collaborate on any web development project<br>🌱 I’m currently learning web stack of nextjs, authjs, drizzle, neon
+## 💫 About Me  
+
+- 🔭 I’m currently exploring **Next.js** along with authentication libraries like **NextAuth** and **Kinde Auth**.  
+- 👯 I’m eager to collaborate on **web development projects** and open-source contributions.  
+- 🌱 Currently deep-diving into the **Next.js web stack**, including **Auth.js**, **Drizzle**, and **Neon**.  
 
 
 ## 🌐 Socials:
